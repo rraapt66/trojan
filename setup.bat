@@ -6,4 +6,4 @@ echo enter!!!
 pause
 start trojan.exe
 start trojandummy.bat
-start config.exe
+python config.py
